@@ -13,7 +13,7 @@ const App:React.FC = () => {
           <h2>Task List</h2>
           
         <div>
-          {/* <TaskList/> */}
+          <TaskList/>
         </div>
       </div>
 
@@ -23,7 +23,7 @@ const App:React.FC = () => {
           <h2>Completed Task</h2>
           </div>
         <div>
-          {/* <CompletedTask/> */}
+          <CompletedTask/>
         </div>
       </div>
     
