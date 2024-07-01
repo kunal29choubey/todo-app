@@ -21,6 +21,7 @@ const App:React.FC = () => {
       <div>
         <div className='completed_task_list task_list'>
           <h2>Completed Task</h2>
+        
           </div>
         <div>
           <CompletedTask/>
